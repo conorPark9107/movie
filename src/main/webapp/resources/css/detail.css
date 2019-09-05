@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.row{
+	margin: 10px;
+	padding: 10px;
+	font-size: 20px;
+}
+.contentsTop{
+	border-bottom: 2px solid Gainsboro; 
+	background-color: #FFFFE9;
+}
+.divLine{
+ border-bottom: 1px dotted #656565;
+ margin: 10px;
+}
+video {
+display: inline-block;
+width: auto\9 !important; /* ie8 */ 
+width: auto !important;
+max-width: 100%; 
+height: auto !important; 
+}
